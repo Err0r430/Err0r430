@@ -19,6 +19,8 @@ I’m learning Rust to leverage its speed and modern capabilities, with the goal
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/tauri-%23252c34.svg?style=for-the-badge&logo=tauri&logoColor=%23FFC131)
+
 
 ## 🖥️ Backend Frameworks & Platforms
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
