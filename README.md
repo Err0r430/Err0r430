@@ -94,6 +94,17 @@ I’m learning Rust to leverage its speed and modern capabilities, with the goal
 </p>
 </div>
 
+<div align="center">
+  <img src="https://juice.irrvlo.xyz/favicon.ico" alt="Juice client" width="150">
+  <h1>Juice client</h1>
+</a>
+  <p>
+    The #1 light Electron client for Kirka.io providing a rich set of features previously not possible. Check it out <a href="https://github.com/irrvlo/juice-client" target="_blank">here</a>
+</p>
+</div>
+
+
+
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=err0r430&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=err0r430&theme=dark&hide_border=true)<br/>
