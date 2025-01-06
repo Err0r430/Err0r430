@@ -64,6 +64,35 @@ I’m learning Rust to leverage its speed and modern capabilities, with the goal
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ---
+## 📁 Projects
+
+<div align="center">
+  <img src="https://wiki.suroi.io/img/suroi_small.svg" alt="Suroi Logo" width="150">
+  <h1>Suroi</h1>
+</a>
+  <p>
+    Suroi is an open-source 2D battle royale game inspired by surviv.io.
+    Play the game <a href="https://suroi.io" target="_blank">here</a>.
+</p>
+</div>
+
+<div align="center">
+  <img src="https://discord.do/wp-content/uploads/2023/09/PC7-Client.jpg" alt="PC7 client logo" width="150">
+  <h1>PC7 Client</h1>
+</a>
+  <p>
+   Originally built upon the ashes of LaF, PC7 provides improved performance compared to other clients and browsers on most devices with a rich selection of features. Check it out <a href="https://github.com/PC7-Client/PC7-Client?tab=readme-ov-file#3" target="_blank">here</a>
+</p>
+</div>
+
+<div align="center">
+  <img src="https://holy-client.com/logowhite.5c7e54ec07d4314c.png" alt="Holy client logo" width="150">
+  <h1>Holy client</h1>
+</a>
+  <p>
+   Holy is a client for the game krunker.io. It was developed by three friends who aimed to provide a safe and efficient way to play Krunker. Check it out <a href="https://github.com/vaqqq/holy-client" target="_blank">here</a>
+</p>
+</div>
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=err0r430&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
