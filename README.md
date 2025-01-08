@@ -1,7 +1,7 @@
 # About Me :
 I’m a backend developer with 4+ years of JavaScript experience and 2 years specializing in TypeScript, driven by a passion for problem-solving and learning new technologies. I’ve built custom solutions like a home assistant using GPT models, Whisper, and ElevenLabs, and I’m currently exploring vector databases and input moderation with Ada2.
 
-I’m learning Rust to leverage its speed and modern capabilities, with the goal of building a full-fledged API. While most of my work is in private repos, I’ve created proprietary Discord bots for the open sourced [Suroi](https://suroi.io) project and moderation tools for communities, blending practical development with innovation. My focus is on advancing in AI and Rust while continuing to build reliable systems in TypeScript.
+I’m learning Rust to leverage its speed and modern capabilities, with the goal of building a full-fledged API. While most of my work is in private repos, I’ve created proprietary Discord bots, moderation backends, and an accounts system for the open sourced [Suroi](https://suroi.io) project, blending practical development with innovation. My focus is on advancing in AI and Rust while continuing to build reliable systems in TypeScript.
 
 # 💻 Tech Stack
 
