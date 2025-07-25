@@ -13,7 +13,7 @@
 [![My backend infra](https://skillicons.dev/icons?i=postgres,mongo,redis,firebase,mysql,sqlite,aws,cloudflare,nginx,&perline=9)](https://skillicons.dev)
 
 <br><br>
-(Theres more but half of those icons just dont exist)
+(If you're a recruiter, most of my projects are closed sadly! Reach out to me and I'm happy to show them off.)
 <br><br>
 
 <a href="mailto:error@suroi.io"><b>📧 itserror430@gmail.com</b></a> &nbsp; • &nbsp;
